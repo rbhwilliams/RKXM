@@ -1,2 +1,2 @@
 # RKXM
-R functions for working with metagenome assemblies from SPAdes
+R functions for working with metagenome assemblies from SPAdes. 
